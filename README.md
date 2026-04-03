@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Ruby · Cybersecurity & IT Junior</h1>
+<h1>· Cybersecurity & IT Junior</h1>
 
 <p><strong>Ethical Hacking · Pentesting · Python · AI + Security</strong></p>
 
