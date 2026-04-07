@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>· Cybersecurity & IT Junior</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0A66C2,100:CC0000&height=180&section=header&text=Ruby&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%26%20Offensive%20Security&descAlignY=62&descSize=20&descColor=a0b4c8&animation=fadeIn" width="100%"/>
 
-<p><strong>Ethical Hacking · Pentesting · Python · AI + Security</strong></p>
+<br/>
 
-<p>📍 Málaga, España &nbsp;·&nbsp; Digitech FP &nbsp;·&nbsp; Cisco NetAcad</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Pentester+%7C+AI+%2B+Security;Offensive+Security+%7C+Python+%7C+Kali+Linux;Building+tools+at+the+intersection+of+AI+%26+Hacking)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,19 +14,34 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ruby570bocadito&color=0A66C2&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruby570bocadito&color=0A66C2&style=flat-square&label=Profile+Views)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Ruby570bocadito?style=flat-square&color=0A66C2&label=Followers)
 
 </div>
 
 ---
 
-## 👤 Sobre mí
+## `whoami`
 
-Soy **Ruby**, profesional IT junior especializada en **seguridad informática y ethical hacking**, cursando actualmente el ciclo formativo en **Digitech FP Málaga** y certificada por **Cisco NetAcad**.
+```bash
+$ cat ruby.txt
+```
 
-Me especializo en la intersección entre **Inteligencia Artificial y Ciberseguridad Ofensiva** — desarrollo herramientas reales que integran LLM y Machine Learning con flujos de pentesting. Además, mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/ciber-apuntes/) de seguridad ofensiva, abierta a la comunidad.
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  Name    : Ruby                                                      │
+│  Role    : Cybersecurity & IT Junior · Offensive Security            │
+│  Focus   : AI-augmented pentesting · Tool development · OSINT        │
+│  Base    : Málaga, España                                            │
+│  Training: Digitech FP Málaga · Cisco NetAcad                        │
+│  Status  : Open to internships & collaborations in cybersecurity     │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-> *Abierta a prácticas, colaboraciones y oportunidades en el sector de la ciberseguridad.*
+Profesional IT junior especializada en **seguridad ofensiva y ethical hacking**, con enfoque particular en la **intersección entre Inteligencia Artificial y Ciberseguridad**. Desarrollo herramientas que integran LLMs y Machine Learning con flujos reales de pentesting.
+
+Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/ciber-apuntes/) de seguridad ofensiva — abierta y activa para la comunidad.
 
 ---
 
@@ -34,81 +49,77 @@ Me especializo en la intersección entre **Inteligencia Artificial y Ciberseguri
 
 <table>
   <tr>
-    <td><b>🔴 Offensive Security</b></td>
+    <td align="center" width="90"><b>🔴</b></td>
+    <td><b>Offensive Security</b></td>
     <td>Pentesting · Metasploit · Burp Suite · Nmap · Privilege Escalation · OSINT</td>
   </tr>
   <tr>
-    <td><b>🌐 Network Security</b></td>
+    <td align="center"><b>🌐</b></td>
+    <td><b>Network Security</b></td>
     <td>CCNA · TCP/IP · Cisco IOS · Análisis de tráfico · WiFi Hacking</td>
   </tr>
   <tr>
-    <td><b>🤖 AI + Security</b></td>
+    <td align="center"><b>🤖</b></td>
+    <td><b>AI + Security</b></td>
     <td>LLM Integration · Machine Learning · Automatización ofensiva · Vibe Hacking</td>
   </tr>
   <tr>
-    <td><b>🐍 Development</b></td>
+    <td align="center"><b>🐍</b></td>
+    <td><b>Development</b></td>
     <td>Python · Bash · C++ · Scripting · Tool Development</td>
   </tr>
   <tr>
-    <td><b>🦠 Malware & Privacy</b></td>
+    <td align="center"><b>🦠</b></td>
+    <td><b>Malware & Privacy</b></td>
     <td>Malware Analysis · Android Hacking · Deep Web · OPSEC · Phishing</td>
   </tr>
   <tr>
-    <td><b>🌍 Web & Mobile</b></td>
+    <td align="center"><b>🌍</b></td>
+    <td><b>Web & Mobile</b></td>
     <td>Web Pentesting · Android Security · OSINT · Social Engineering</td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Proyectos destacados
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal">SPECTER</a></h3>
-      <p><b>AI-Powered Offensive Security Terminal</b></p>
-      <p>Terminal ofensiva con integración de LLM que asiste tácticamente en flujos de pentesting. Automatiza reconocimiento, análisis de vulnerabilidades y generación de payloads mediante IA.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LLM-FF6B35?style=flat"/>
-        <img src="https://img.shields.io/badge/Offensive_Security-CC0000?style=flat"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation">Vibe Hacking</a></h3>
-      <p><b>ML Automation Framework</b></p>
-      <p>Framework de automatización de técnicas de hacking ético asistido por Machine Learning. Explora cómo los modelos adaptativos mejoran la eficiencia en pruebas de seguridad.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6B35?style=flat"/>
-        <img src="https://img.shields.io/badge/Automation-2ECC71?style=flat"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm">Wormy</a></h3>
-      <p><b>ML Network Worm Research</b></p>
-      <p>Investigación sobre propagación de gusanos de red con comportamiento adaptativo mediante ML, desarrollado en entorno controlado con fines educativos y de investigación ofensiva.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Network_Security-CC0000?style=flat"/>
-        <img src="https://img.shields.io/badge/ML_Research-9B59B6?style=flat"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML">GestureOS</a></h3>
-      <p><b>Computer Control via ML</b></p>
-      <p>Control de sistema operativo mediante reconocimiento de gestos con visión por computador y ML. Explora interfaces HCI alternativas y sus implicaciones en seguridad física.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Computer_Vision-2ECC71?style=flat"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**⚡ SPECTER**](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) | Terminal ofensiva con integración de LLM que asiste tácticamente en flujos de pentesting. Automatiza reconocimiento, análisis de vulnerabilidades y generación de payloads mediante IA. | `Python` `LLM` `Offensive Sec` |
+| [**🧠 Vibe Hacking**](https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation) | Framework de automatización de técnicas de hacking ético asistido por Machine Learning. Modelos adaptativos aplicados a pruebas de seguridad. | `Python` `ML` `Automation` |
+| [**🪱 Wormy**](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) | Investigación sobre propagación de gusanos de red con comportamiento adaptativo mediante ML. Entorno controlado con fines académicos y de investigación ofensiva. | `Python` `Network Sec` `ML Research` |
+| [**🖐️ GestureOS**](https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML) | Control de sistema operativo mediante reconocimiento de gestos con visión por computador y ML. Interfaces HCI alternativas y sus implicaciones en seguridad física. | `Python` `OpenCV` `Computer Vision` |
+
+</div>
+
+> 💡 *Todos los proyectos de investigación con componente ofensiva se desarrollan en entornos controlados con fines exclusivamente educativos.*
+
+---
+
+## 🛠️ Stack tecnológico
+
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Sistemas & Herramientas de Seguridad**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Redes & Cloud**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -116,6 +127,7 @@ Me especializo en la intersección entre **Inteligencia Artificial y Ciberseguri
 
 <details>
 <summary><b>🔵 Cisco Networking Academy — 6 certificados</b></summary>
+
 <br/>
 
 | Certificado | Plataforma |
@@ -131,6 +143,7 @@ Me especializo en la intersección entre **Inteligencia Artificial y Ciberseguri
 
 <details>
 <summary><b>🔴 Udemy — Seguridad & Hacking Ético — 17 cursos</b></summary>
+
 <br/>
 
 | Curso |
@@ -157,6 +170,7 @@ Me especializo en la intersección entre **Inteligencia Artificial y Ciberseguri
 
 <details>
 <summary><b>🟢 Otras formaciones</b></summary>
+
 <br/>
 
 | Formación | Entidad |
@@ -170,25 +184,16 @@ Me especializo en la intersección entre **Inteligencia Artificial y Ciberseguri
 
 ---
 
-## 🛠️ Stack tecnológico
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=0A66C2&icon_color=CC0000&text_color=a0b4c8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=0A66C2&text_color=a0b4c8" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruby570bocadito&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=CC0000&currStreakLabel=0A66C2" />
 
 </div>
 
@@ -196,8 +201,10 @@ Me especializo en la intersección entre **Inteligencia Artificial y Ciberseguri
 
 <div align="center">
 
-📫 **Contacto** — [LinkedIn](https://linkedin.com/in/TU_USUARIO) · [GitHub](https://github.com/Ruby570bocadito) · [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,50:0A66C2,100:0d1117&height=100&section=footer" width="100%"/>
 
-*Abierta a prácticas y oportunidades en ciberseguridad · Málaga / Remoto*
+*Abierta a prácticas y oportunidades en ciberseguridad · Málaga, España*
+
+**[GitHub](https://github.com/Ruby570bocadito)** &nbsp;·&nbsp; **[CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)**
 
 </div>
