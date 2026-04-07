@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0A66C2,100:CC0000&amp;height=180&amp;section=header&amp;text=Ruby&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Cybersecurity%20%26%20Offensive%20Security&amp;descAlignY=62&amp;descSize=20&amp;descColor=a0b4c8&amp;animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Ruby)](https://git.io/typing-svg)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Pentester+%7C+AI+%2B+Security;Offensive+Security+%7C+Python+%7C+Kali+Linux;Building+tools+at+the+intersection+of+AI+%26+Hacking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=2000&color=0A66C2&center=true&vCenter=true&width=700&lines=Ethical+Hacker+%7C+Pentester+%7C+AI+%2B+Security;Offensive+Security+%7C+Python+%7C+Kali+Linux;Building+tools+at+the+intersection+of+AI+%26+Hacking)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,10 +13,12 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ruby570bocadito&color=0A66C2&style=flat-square&label=Profile+Views)
-&nbsp;
+&nbsp;&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/Ruby570bocadito?style=flat-square&color=0A66C2&label=Followers)
 
 </div>
+
+<br/>
 
 ---
 
@@ -45,7 +45,7 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 ---
 
-## 🎯 Áreas de especialización
+## 🎯 Especialización
 
 <table>
   <tr>
@@ -86,12 +86,12 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**⚡ SPECTER**](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) | Terminal ofensiva con LLM integrado que automatiza reconocimiento, análisis de vulnerabilidades y generación de payloads. | `Python` `LLM` `Offensive Sec` |
-| [**🧠 Vibe Hacking**](https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation) | Framework de automatización de hacking ético asistido por Machine Learning. Modelos adaptativos aplicados a pruebas de seguridad. | `Python` `ML` `Automation` |
+| [**⚡ SPECTER**](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) | Terminal ofensiva con LLM integrado. Automatiza reconocimiento, análisis de vulnerabilidades y generación de payloads mediante IA. | `Python` `LLM` `Offensive Sec` |
+| [**🧠 Vibe Hacking**](https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation) | Framework de automatización de hacking ético asistido por ML. Modelos adaptativos aplicados a pruebas de seguridad. | `Python` `ML` `Automation` |
 | [**🪱 Wormy**](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) | Investigación sobre propagación de gusanos de red con comportamiento adaptativo mediante ML en entorno controlado. | `Python` `Network Sec` `ML Research` |
-| [**🖐️ GestureOS**](https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML) | Control de SO mediante reconocimiento de gestos con visión por computador y ML. HCI alternativa con implicaciones en seguridad física. | `Python` `OpenCV` `Computer Vision` |
+| [**🖐️ GestureOS**](https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML) | Control de SO mediante reconocimiento de gestos con visión por computador y ML. Interfaces HCI y sus implicaciones en seguridad. | `Python` `OpenCV` `Computer Vision` |
 
-> 💡 *Todos los proyectos con componente ofensiva se desarrollan en entornos controlados con fines exclusivamente educativos.*
+> 💡 *Los proyectos con componente ofensiva se desarrollan en entornos controlados con fines exclusivamente educativos.*
 
 ---
 
@@ -180,11 +180,11 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 <div align="center">
 
-![Ruby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=0A66C2&icon_color=CC0000&text_color=a0b4c8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruby570bocadito&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=CC0000&currStreakLabel=0A66C2&sideLabels=a0b4c8&dates=a0b4c8&sideNums=ffffff&currStreakNum=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=0A66C2&text_color=a0b4c8)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruby570bocadito&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=CC0000&currStreakLabel=0A66C2)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ruby570bocadito&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)
 
 </div>
 
@@ -192,9 +192,9 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:CC0000,50:0A66C2,100:0d1117&amp;height=100&amp;section=footer" width="100%"/>
+![divider](https://img.shields.io/badge/──────────────────────────────────────────────────────-0d1117?style=flat)
 
-*Abierta a prácticas y oportunidades en ciberseguridad · Málaga, España*
+· Málaga, España
 
 [GitHub](https://github.com/Ruby570bocadito) · [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 
