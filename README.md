@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0A66C2,100:CC0000&height=180&section=header&text=Ruby&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%26%20Offensive%20Security&descAlignY=62&descSize=20&descColor=a0b4c8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0A66C2,100:CC0000&amp;height=180&amp;section=header&amp;text=Ruby&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Cybersecurity%20%26%20Offensive%20Security&amp;descAlignY=62&amp;descSize=20&amp;descColor=a0b4c8&amp;animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -70,12 +70,12 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
   </tr>
   <tr>
     <td align="center"><b>🦠</b></td>
-    <td><b>Malware & Privacy</b></td>
+    <td><b>Malware &amp; Privacy</b></td>
     <td>Malware Analysis · Android Hacking · Deep Web · OPSEC · Phishing</td>
   </tr>
   <tr>
     <td align="center"><b>🌍</b></td>
-    <td><b>Web & Mobile</b></td>
+    <td><b>Web &amp; Mobile</b></td>
     <td>Web Pentesting · Android Security · OSINT · Social Engineering</td>
   </tr>
 </table>
@@ -88,14 +88,14 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**⚡ SPECTER**](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) | Terminal ofensiva con integración de LLM que asiste tácticamente en flujos de pentesting. Automatiza reconocimiento, análisis de vulnerabilidades y generación de payloads mediante IA. | `Python` `LLM` `Offensive Sec` |
-| [**🧠 Vibe Hacking**](https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation) | Framework de automatización de técnicas de hacking ético asistido por Machine Learning. Modelos adaptativos aplicados a pruebas de seguridad. | `Python` `ML` `Automation` |
-| [**🪱 Wormy**](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) | Investigación sobre propagación de gusanos de red con comportamiento adaptativo mediante ML. Entorno controlado con fines académicos y de investigación ofensiva. | `Python` `Network Sec` `ML Research` |
-| [**🖐️ GestureOS**](https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML) | Control de sistema operativo mediante reconocimiento de gestos con visión por computador y ML. Interfaces HCI alternativas y sus implicaciones en seguridad física. | `Python` `OpenCV` `Computer Vision` |
+| [**⚡ SPECTER**](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) | Terminal ofensiva con LLM integrado que automatiza reconocimiento, análisis de vulnerabilidades y generación de payloads. | `Python` `LLM` `Offensive Sec` |
+| [**🧠 Vibe Hacking**](https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation) | Framework de automatización de hacking ético asistido por Machine Learning. Modelos adaptativos aplicados a pruebas de seguridad. | `Python` `ML` `Automation` |
+| [**🪱 Wormy**](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) | Investigación sobre propagación de gusanos de red con comportamiento adaptativo mediante ML en entorno controlado. | `Python` `Network Sec` `ML Research` |
+| [**🖐️ GestureOS**](https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML) | Control de SO mediante reconocimiento de gestos con visión por computador y ML. HCI alternativa con implicaciones en seguridad física. | `Python` `OpenCV` `Computer Vision` |
 
 </div>
 
-> 💡 *Todos los proyectos de investigación con componente ofensiva se desarrollan en entornos controlados con fines exclusivamente educativos.*
+> 💡 *Todos los proyectos con componente ofensiva se desarrollan en entornos controlados con fines exclusivamente educativos.*
 
 ---
 
@@ -107,19 +107,18 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Sistemas & Herramientas de Seguridad**
+**Seguridad**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Redes & Cloud**
+**Sistemas y herramientas**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -127,7 +126,6 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 <details>
 <summary><b>🔵 Cisco Networking Academy — 6 certificados</b></summary>
-
 <br/>
 
 | Certificado | Plataforma |
@@ -142,8 +140,7 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 </details>
 
 <details>
-<summary><b>🔴 Udemy — Seguridad & Hacking Ético — 17 cursos</b></summary>
-
+<summary><b>🔴 Udemy — Seguridad &amp; Hacking Ético — 17 cursos</b></summary>
 <br/>
 
 | Curso |
@@ -170,7 +167,6 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 <details>
 <summary><b>🟢 Otras formaciones</b></summary>
-
 <br/>
 
 | Formación | Entidad |
@@ -188,12 +184,11 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=0A66C2&icon_color=CC0000&text_color=a0b4c8" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=0A66C2&text_color=a0b4c8" />
+![Ruby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=0A66C2&icon_color=CC0000&text_color=a0b4c8)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=0A66C2&text_color=a0b4c8)
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruby570bocadito&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=CC0000&currStreakLabel=0A66C2" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruby570bocadito&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=CC0000&currStreakLabel=0A66C2)
 
 </div>
 
@@ -201,10 +196,12 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,50:0A66C2,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:CC0000,50:0A66C2,100:0d1117&amp;height=100&amp;section=footer" width="100%"/>
 
 *Abierta a prácticas y oportunidades en ciberseguridad · Málaga, España*
 
 **[GitHub](https://github.com/Ruby570bocadito)** &nbsp;·&nbsp; **[CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)**
+
+</div>ocadito)** &nbsp;·&nbsp; **[CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)**
 
 </div>
