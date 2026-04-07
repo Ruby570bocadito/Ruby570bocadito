@@ -49,7 +49,7 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 <table>
   <tr>
-    <td align="center" width="90"><b>🔴</b></td>
+    <td align="center" width="30"><b>🔴</b></td>
     <td><b>Offensive Security</b></td>
     <td>Pentesting · Metasploit · Burp Suite · Nmap · Privilege Escalation · OSINT</td>
   </tr>
@@ -84,16 +84,12 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 ## 🚀 Proyectos destacados
 
-<div align="center">
-
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**⚡ SPECTER**](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) | Terminal ofensiva con LLM integrado que automatiza reconocimiento, análisis de vulnerabilidades y generación de payloads. | `Python` `LLM` `Offensive Sec` |
 | [**🧠 Vibe Hacking**](https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation) | Framework de automatización de hacking ético asistido por Machine Learning. Modelos adaptativos aplicados a pruebas de seguridad. | `Python` `ML` `Automation` |
 | [**🪱 Wormy**](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) | Investigación sobre propagación de gusanos de red con comportamiento adaptativo mediante ML en entorno controlado. | `Python` `Network Sec` `ML Research` |
 | [**🖐️ GestureOS**](https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML) | Control de SO mediante reconocimiento de gestos con visión por computador y ML. HCI alternativa con implicaciones en seguridad física. | `Python` `OpenCV` `Computer Vision` |
-
-</div>
 
 > 💡 *Todos los proyectos con componente ofensiva se desarrollan en entornos controlados con fines exclusivamente educativos.*
 
@@ -200,8 +196,6 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 *Abierta a prácticas y oportunidades en ciberseguridad · Málaga, España*
 
-**[GitHub](https://github.com/Ruby570bocadito)** &nbsp;·&nbsp; **[CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)**
-
-</div>ocadito)** &nbsp;·&nbsp; **[CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)**
+[GitHub](https://github.com/Ruby570bocadito) · [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 
 </div>
