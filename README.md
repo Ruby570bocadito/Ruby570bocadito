@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Ruby)](https://git.io/typing-svg)
 
@@ -190,7 +190,7 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 ---
 
-<div align="center">
+<div align="center">**
 
 ![divider](https://img.shields.io/badge/──────────────────────────────────────────────────────-0d1117?style=flat)
 
