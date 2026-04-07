@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Ruby)](https://git.io/typing-svg)
 
@@ -182,15 +182,17 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruby570bocadito&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=CC0000&currStreakLabel=0A66C2&sideLabels=a0b4c8&dates=a0b4c8&sideNums=ffffff&currStreakNum=ffffff)
 
-<br/>
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ruby570bocadito&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)
-
 </div>
 
 ---
 
-<div align="center">**
+<div align="center">
+
+*Abierta a prácticas y oportunidades en ciberseguridad · Málaga, España*
+
+[GitHub](https://github.com/Ruby570bocadito) · [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
+
+</div>
 
 ![divider](https://img.shields.io/badge/──────────────────────────────────────────────────────-0d1117?style=flat)
 
