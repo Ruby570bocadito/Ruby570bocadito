@@ -134,10 +134,15 @@ Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 ---
 
 ## 📊 Stats
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=a0b4c8)
+
+</div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruby570bocadito&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=CC0000&currStreakLabel=0A66C2&sideLabels=a0b4c8&dates=a0b4c8&sideNums=ffffff&currStreakNum=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ruby570bocadito&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=CC0000&currStreakLabel=0A66C2&sideLabels=a0b4c8&dates=a0b4c8&sideNums=ffffff&currStreakNum=ffffff)
 
 </div>
 
@@ -150,3 +155,4 @@ Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 [GitHub](https://github.com/Ruby570bocadito) · [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 
 </div>
+
