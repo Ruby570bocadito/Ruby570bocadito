@@ -1,182 +1,139 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Ruby)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&height=80&lines=Ruby570bocadito;Offensive+Security+%2B+AI;Red+Team+Tooling+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=2000&color=0A66C2&center=true&vCenter=true&width=700&lines=Ethical+Hacker+%7C+Pentester+%7C+AI+%2B+Security;Offensive+Security+%7C+Python+%7C+Kali+Linux;Building+tools+at+the+intersection+of+AI+%26+Hacking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&pause=2000&color=a0b4c8&center=true&vCenter=true&width=700&lines=Ethical+Hacker+|+Pentester+|+AI+%2B+Security;Building+offensive+tools+at+the+AI+intersection;Golang+|+Python+|+Kali+Linux+|+CCNA)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 [![GitBook](https://img.shields.io/badge/CiberApuntes-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://apuntes-8.gitbook.io/ciber-apuntes/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruby570bocadito)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ruby570bocadito&color=0A66C2&style=flat-square&label=Profile+Views)
-&nbsp;&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Ruby570bocadito?style=flat-square&color=0A66C2&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruby570bocadito&color=0A66C2&style=flat-square&label=Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Ruby570bocadito?style=flat-square&color=0A66C2&label=Followers)
 
 </div>
-
-<br/>
 
 ---
 
 ## `whoami`
 
-```bash
-$ cat ruby.txt
+```
+┌──────────────────────────────────────────────────────┐
+│  Name    : Ruby                                      │
+│  Focus   : Offensive Security · Red Team Tooling     │
+│  Stack   : Go · Python · AI/ML · Kali Linux          │
+│  Base    : Málaga, España                            │
+│  Status  : Open to opportunities in cybersecurity    │
+└──────────────────────────────────────────────────────┘
 ```
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  Name    : Ruby                                                      │
-│  Role    : Cybersecurity & IT Junior · Offensive Security            │
-│  Focus   : AI-augmented pentesting · Tool development · OSINT        │
-│  Base    : Málaga, España                                            │
-│  Training: Digitech FP Málaga · Cisco NetAcad                        │
-│  Status  : Open to internships & collaborations in cybersecurity     │
-└──────────────────────────────────────────────────────────────────────┘
-```
+Cybersecurity professional specialized in **offensive security and ethical hacking**, with a focus on the **intersection between AI and red team operations**. Building frameworks and tools that integrate LLMs and machine learning with real-world pentesting workflows.
 
-Profesional IT junior especializada en **seguridad ofensiva y ethical hacking**, con enfoque particular en la **intersección entre Inteligencia Artificial y Ciberseguridad**. Desarrollo herramientas que integran LLMs y Machine Learning con flujos reales de pentesting.
-
-Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/ciber-apuntes/) de seguridad ofensiva — abierta y activa para la comunidad.
+Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/) — an open offensive security documentation library.
 
 ---
 
-## 🎯 Especialización
+## 🔧 Featured Projects
 
 <table>
-  <tr>
-    <td align="center" width="30"><b>🔴</b></td>
-    <td><b>Offensive Security</b></td>
-    <td>Pentesting · Metasploit · Burp Suite · Nmap · Privilege Escalation · OSINT</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌐</b></td>
-    <td><b>Network Security</b></td>
-    <td>CCNA · TCP/IP · Cisco IOS · Análisis de tráfico · WiFi Hacking</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖</b></td>
-    <td><b>AI + Security</b></td>
-    <td>LLM Integration · Machine Learning · Automatización ofensiva · Vibe Hacking</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🐍</b></td>
-    <td><b>Development</b></td>
-    <td>Python · Bash · C++ · Scripting · Tool Development</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🦠</b></td>
-    <td><b>Malware &amp; Privacy</b></td>
-    <td>Malware Analysis · Android Hacking · Deep Web · OPSEC · Phishing</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌍</b></td>
-    <td><b>Web &amp; Mobile</b></td>
-    <td>Web Pentesting · Android Security · OSINT · Social Engineering</td>
-  </tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Ruby570bocadito/BTY"><b>BTY — C2 Framework</b></a><br/>
+<sub>Post-exploitation command & control. Go + Vue 3. X25519 + XChaCha20-Poly1305. AV evasion, SOCKS5 proxy, multi-transport, 7 post-exploitation modules.</sub>
+</td>
+<td width="50%">
+<a href="https://github.com/Ruby570bocadito/Taurus-Framework"><b>Taurus — ML Malware Framework</b></a><br/>
+<sub>Advanced ML-powered malware generation. Polymorphic payload synthesis with adversarial evasion and multi-vector propagation.</sub>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm"><b>Wormy — ML Network Worm</b></a><br/>
+<sub>Polymorphic self-replicating worm. Dynamic encryption, multi-vector propagation, adversarial ML evasion.</sub>
+</td>
+<td>
+<a href="https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal"><b>SPECTER — AI Pentest Terminal</b></a><br/>
+<sub>100% offline AI-powered offensive security assistant. Ollama integration, sandboxed execution, real-time guidance.</sub>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/Ruby570bocadito/Morpheus-Proxy"><b>Morpheus — Stealth C2</b></a><br/>
+<sub>Sleep obfuscation & stealth C2 framework. Memory encryption, traffic camouflage, morphing payloads.</sub>
+</td>
+<td>
+<a href="https://github.com/Ruby570bocadito/PentOs"><b>PentOs — Pentesting Toolkit</b></a><br/>
+<sub>Pre-configured offensive security environment with essential red team tools.</sub>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/Ruby570bocadito/Skull"><b>Skull — Minimal Implant</b></a><br/>
+<sub>Lightweight post-exploitation agent. Polymorphic, self-destructing, covert operations.</sub>
+</td>
+<td>
+<a href="https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation"><b>Vibe Hacking — AI Automation</b></a><br/>
+<sub>AI-assisted pentesting automation. ML-powered vulnerability discovery and exploitation.</sub>
+</td>
+</tr>
 </table>
 
----
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [**⚡ SPECTER**](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) | Terminal ofensiva con LLM integrado. Automatiza reconocimiento, análisis de vulnerabilidades y generación de payloads mediante IA. | `Python` `LLM` `Offensive Sec` |
-| [**🧠 Vibe Hacking**](https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation) | Framework de automatización de hacking ético asistido por ML. Modelos adaptativos aplicados a pruebas de seguridad. | `Python` `ML` `Automation` |
-| [**🪱 Wormy**](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) | Investigación sobre propagación de gusanos de red con comportamiento adaptativo mediante ML en entorno controlado. | `Python` `Network Sec` `ML Research` |
-| [**🖐️ GestureOS**](https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML) | Control de SO mediante reconocimiento de gestos con visión por computador y ML. Interfaces HCI y sus implicaciones en seguridad. | `Python` `OpenCV` `Computer Vision` |
-
-> 💡 *Los proyectos con componente ofensiva se desarrollan en entornos controlados con fines exclusivamente educativos.*
-
----
-
-## 🛠️ Stack tecnológico
-
-**Lenguajes**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Seguridad**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**Sistemas y herramientas**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🏅 Certificaciones
-
 <details>
-<summary><b>🔵 Cisco Networking Academy — 6 certificados</b></summary>
+<summary><b>📦 All Projects</b></summary>
 <br/>
 
-| Certificado | Plataforma |
-|---|---|
+| Repo | Type |
+|------|------|
+| [BTY](https://github.com/Ruby570bocadito/BTY) | C2 Framework |
+| [Taurus-Framework](https://github.com/Ruby570bocadito/Taurus-Framework) | ML Malware Gen |
+| [Wormy-ML-Network-Worm](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) | ML Network Worm |
+| [SPECTER-AI](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) | AI Pentest Terminal |
+| [Morpheus-Proxy](https://github.com/Ruby570bocadito/Morpheus-Proxy) | Stealth C2 |
+| [PentOs](https://github.com/Ruby570bocadito/PentOs) | Pentesting OS |
+| [Skull](https://github.com/Ruby570bocadito/Skull) | Minimal Implant |
+| [OSINT-EYE](https://github.com/Ruby570bocadito/OSINT-EYE) | OSINT Tool |
+| [Ollama-Forge](https://github.com/Ruby570bocadito/Ollama-Forge) | AI Interface |
+| [GestureOS](https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML) | Gesture Control |
+| [Training-CTF](https://github.com/Ruby570bocadito/Training-CTF) | CTF Platform |
+| [C2-Server](https://github.com/Ruby570bocadito/C2-Server) | Minimalist C2 |
+| [Bliblioteca-Pentesting](https://github.com/Ruby570bocadito/Bliblioteca-del-Pentesting) | Knowledge Library |
+| [Alpaca-Trading-ML](https://github.com/Ruby570bocadito/Alpaca-Trading-ML) | Trading Bot |
+| [Bitcoinator](https://github.com/Ruby570bocadito/Bitcoinator) | Crypto Tool |
+
+</details>
+
+---
+
+## 🎯 Specialization
+
+| Area | Tools & Skills |
+|------|---------------|
+| 🔴 **Offensive Security** | Metasploit · Burp Suite · Nmap · PrivEsc · OSINT · C2 Development |
+| 🤖 **AI + Security** | LLM Integration · ML · Automatización ofensiva · Adversarial ML |
+| 🔧 **Development** | Go · Python · Bash · PowerShell · Vue 3 · API REST |
+| 🌐 **Networking** | CCNA · TCP/IP · WiFi Hacking · Traffic Analysis · Cisco IOS |
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|--------------|--------|
 | CCNA — Cisco Certified Network Associate | Cisco NetAcad |
 | Ethical Hacker Certificate | Cisco NetAcad |
 | Python Essentials 1 | Cisco Academy |
-| Introducción a la Ciberseguridad | Cisco Academy |
-| Conceptos Básicos de Redes | Cisco Academy |
+| Cybersecurity Introduction | Cisco Academy |
+| Networking Fundamentals | Cisco Academy |
 | Linux Unhatched | Cisco Academy |
-
-</details>
-
-<details>
-<summary><b>🔴 Udemy — Seguridad &amp; Hacking Ético — 17 cursos</b></summary>
-<br/>
-
-| Curso |
-|---|
-| Máster en Pentesting y Hacking Ético |
-| Hacking Ético con Kali Linux |
-| Hacking Ético con Metasploit Framework |
-| Escalada de Privilegios en Linux |
-| Curso de Hacking Ético Web — Pentesting |
-| Hacking Ético a Redes WiFi |
-| Hacking Ético a Dispositivos Móviles Android |
-| Hacking Ético a Redes Sociales |
-| Hacking Ético a PC con Malware |
-| Hacking Ético — Virus, Troyanos, Malware |
-| Hacking Ético desde Dispositivos Android |
-| Anonimato en la Red: Privacidad y Deep Web |
-| OSINT para Principiantes |
-| Seguridad Informática desde Cero |
-| Detectar y Defenderte del Phishing |
-| ChatGPT para Hacking Ético |
-| Curso Completo de Hacking Ético — Aprende Todo |
-
-</details>
-
-<details>
-<summary><b>🟢 Otras formaciones</b></summary>
-<br/>
-
-| Formación | Entidad |
-|---|---|
-| Bootcamp Programación de Videojuegos en C++ (3 años) | Evad Kids |
-| Curso de Desarrollo con IA de 0 a Producción | Brais Moure · mouredev |
-| Cátedra Lamar IA Edison | Formación avanzada |
-| B1 Cambridge — Inglés certificado | Cambridge Assessment |
-
-</details>
+| B1 Cambridge English | Cambridge Assessment |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -188,15 +145,7 @@ Mantengo una [biblioteca de documentación propia](https://apuntes-8.gitbook.io/
 
 <div align="center">
 
-*Abierta a prácticas y oportunidades en ciberseguridad · Málaga, España*
-
-[GitHub](https://github.com/Ruby570bocadito) · [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
-
-</div>
-
-![divider](https://img.shields.io/badge/──────────────────────────────────────────────────────-0d1117?style=flat)
-
-· Málaga, España
+*Open to internships & opportunities in cybersecurity · Málaga, Spain*
 
 [GitHub](https://github.com/Ruby570bocadito) · [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 
