@@ -102,7 +102,6 @@ Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 | [C2-Server](https://github.com/Ruby570bocadito/C2-Server) | Minimalist C2 |
 | [Bliblioteca-Pentesting](https://github.com/Ruby570bocadito/Bliblioteca-del-Pentesting) | Knowledge Library |
 | [Alpaca-Trading-ML](https://github.com/Ruby570bocadito/Alpaca-Trading-ML) | Trading Bot |
-| [Bitcoinator](https://github.com/Ruby570bocadito/Bitcoinator) | Crypto Tool |
 
 </details>
 
@@ -123,7 +122,6 @@ Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 
 | Certification | Issuer |
 |--------------|--------|
-| CCNA — Cisco Certified Network Associate | Cisco NetAcad |
 | Ethical Hacker Certificate | Cisco NetAcad |
 | Python Essentials 1 | Cisco Academy |
 | Cybersecurity Introduction | Cisco Academy |
