@@ -89,7 +89,7 @@ status: Open to cybersecurity opportunities
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,c,bash,powershell,docker,linux,git,github,vue,nodejs,redis,mysql,nginx,kali,ollama&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=go,python,c,bash,powershell,docker,linux,git,github,vue,nodejs,redis,mysql,nginx,kali&theme=dark" alt="languages"/>
 </p>
 
 <p align="center">
