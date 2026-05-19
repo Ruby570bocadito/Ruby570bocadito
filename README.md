@@ -95,7 +95,6 @@ status: Open to cybersecurity opportunities
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nmap,metasploit,wireshark&theme=dark" alt="pentesting tools"/>
 </p>
-
 <p align="center">
   <sub>Hydra · John · Hashcat · SQLMap · Ghidra · GDB · Strace · Tcpdump · Aircrack-ng · Impacket · BloodHound · Cobalt Strike · Sliver · Mimikatz · CrackMapExec · Responder · Netcat · Socat · Radare2 · Frida · Burp Suite · Nmap · Wireshark · Metasploit</sub>
 </p>
