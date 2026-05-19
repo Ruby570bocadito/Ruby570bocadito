@@ -30,7 +30,7 @@
 
 ```yaml
 name: Ruby
-location: Málaga, Spain
+location: Spain
 focus: Offensive Security & Red Team Tooling
 languages:
   - Go
