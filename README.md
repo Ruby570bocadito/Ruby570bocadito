@@ -25,59 +25,72 @@
 ┌──────────────────────────────────────────────────────┐
 │  Name    : Ruby                                      │
 │  Focus   : Offensive Security · Red Team Tooling     │
-│  Stack   : Go · Python · AI/ML · Kali Linux          │
+│  Stack   : Go · Python · C · AI/ML · Kali Linux      │
 │  Base    : Málaga, España                            │
 │  Status  : Open to opportunities in cybersecurity    │
 └──────────────────────────────────────────────────────┘
 ```
 
-Cybersecurity professional specialized in **offensive security and ethical hacking**, with a focus on the **intersection between AI and red team operations**. Building frameworks and tools that integrate LLMs and machine learning with real-world pentesting workflows.
+Cybersecurity developer specialized in **offensive security tooling** — from kernel-level rootkits to C2 frameworks, privilege escalation engines, and AI-assisted pentesting. Building the full attack chain: initial access → privilege escalation → persistence → command & control.
 
-Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/) — an open offensive security documentation library.
+Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/) — open offensive security documentation.
 
 ---
 
-## 🔧 Featured Projects
+## 🛡️ Attack Chain Coverage
+
+| Phase | Project | Language |
+|-------|---------|----------|
+| **Recon** | [OSINT-EYE](https://github.com/Ruby570bocadito/OSINT-EYE) | Python |
+| **Initial Access** | [Wormy](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) — ML Network Worm | Python |
+| **Privilege Escalation** | [peekaboo](https://github.com/Ruby570bocadito/peekaboo) — Auto-Exploiter | Go |
+| **Persistence** | [rooteame](https://github.com/Ruby570bocadito/rooteame) — Kernel Rootkit | C |
+| **C2 / Exfil** | [BTY](https://github.com/Ruby570bocadito/BTY) — C2 Framework | Go |
+| **AI Assist** | [SPECTER](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) — AI Terminal | Python |
+
+---
+
+## 📦 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/Ruby570bocadito/BTY"><b>BTY — C2 Framework</b></a><br/>
-<sub>Post-exploitation command & control. Go + Vue 3. X25519 + XChaCha20-Poly1305. AV evasion, SOCKS5 proxy, multi-transport, 7 post-exploitation modules.</sub>
+<a href="https://github.com/Ruby570bocadito/rooteame"><b>rooteame — Kernel Rootkit</b></a><br/>
+<sub>Linux LKM rootkit v3.0. Syscall hooking, process/file/port hiding, kernel keylogger, reverse shell backdoor, privilege escalation, self-hiding from lsmod. Go CLI client. 15 unit tests. Docker build environment.</sub>
 </td>
 <td width="50%">
-<a href="https://github.com/Ruby570bocadito/Taurus-Framework"><b>Taurus — ML Malware Framework</b></a><br/>
-<sub>Advanced ML-powered malware generation. Polymorphic payload synthesis with adversarial evasion and multi-vector propagation.</sub>
+<a href="https://github.com/Ruby570bocadito/peekaboo"><b>peekaboo — PrivEsc Auto-Exploiter</b></a><br/>
+<sub>Linux privilege escalation auto-exploiter. 10+ scanners, 60+ GTFOBins offline, auto-root via SUID/sudo/cron/Docker. Single binary, zero deps, 8 unit tests. Docker test VM with 7 deliberate flaws.</sub>
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://github.com/Ruby570bocadito/BTY"><b>BTY — C2 Framework</b></a><br/>
+<sub>Post-exploitation command & control. Go + Vue 3. X25519 + XChaCha20-Poly1305. AV evasion, SOCKS5 proxy, multi-transport, 7 post-exploitation modules. Docker multi-node test network.</sub>
+</td>
 <td>
 <a href="https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm"><b>Wormy — ML Network Worm</b></a><br/>
-<sub>Polymorphic self-replicating worm. Dynamic encryption, multi-vector propagation, adversarial ML evasion.</sub>
+<sub>ML-powered polymorphic network worm. Dynamic encryption, multi-vector propagation, adversarial evasion. Self-replicating with ML-based target selection.</sub>
 </td>
+</tr>
+<tr>
 <td>
 <a href="https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal"><b>SPECTER — AI Pentest Terminal</b></a><br/>
-<sub>100% offline AI-powered offensive security assistant. Ollama integration, sandboxed execution, real-time guidance.</sub>
+<sub>100% offline AI-powered offensive security assistant. Ollama integration, sandboxed execution, real-time pentesting guidance.</sub>
+</td>
+<td>
+<a href="https://github.com/Ruby570bocadito/OSINT-EYE"><b>OSINT-EYE — Recon Tool</b></a><br/>
+<sub>Open-source intelligence reconnaissance. Automated data collection from public sources with visualization and reporting.</sub>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/Ruby570bocadito/Morpheus-Proxy"><b>Morpheus — Stealth C2</b></a><br/>
-<sub>Sleep obfuscation & stealth C2 framework. Memory encryption, traffic camouflage, morphing payloads.</sub>
+<a href="https://github.com/Ruby570bocadito/pentesting-env"><b>pentesting-env — Setup Script</b></a><br/>
+<sub>Personalized pentesting environment setup for Kali/Parrot/Debian/Ubuntu. One-command install of essential red team tools.</sub>
 </td>
 <td>
-<a href="https://github.com/Ruby570bocadito/PentOs"><b>PentOs — Pentesting Toolkit</b></a><br/>
-<sub>Pre-configured offensive security environment with essential red team tools.</sub>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/Ruby570bocadito/Skull"><b>Skull — Minimal Implant</b></a><br/>
-<sub>Lightweight post-exploitation agent. Polymorphic, self-destructing, covert operations.</sub>
-</td>
-<td>
-<a href="https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation"><b>Vibe Hacking — AI Automation</b></a><br/>
-<sub>AI-assisted pentesting automation. ML-powered vulnerability discovery and exploitation.</sub>
+<a href="https://github.com/Ruby570bocadito/Training-CTF"><b>Training-CTF — CTF Platform</b></a><br/>
+<sub>CTF training platform with progressive challenges, walkthroughs, and automated scoring for cybersecurity competitions.</sub>
 </td>
 </tr>
 </table>
@@ -86,22 +99,21 @@ Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 <summary><b>📦 All Projects</b></summary>
 <br/>
 
-| Repo | Type |
-|------|------|
-| [BTY](https://github.com/Ruby570bocadito/BTY) | C2 Framework |
-| [Taurus-Framework](https://github.com/Ruby570bocadito/Taurus-Framework) | ML Malware Gen |
-| [Wormy-ML-Network-Worm](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) | ML Network Worm |
-| [SPECTER-AI](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) | AI Pentest Terminal |
-| [Morpheus-Proxy](https://github.com/Ruby570bocadito/Morpheus-Proxy) | Stealth C2 |
-| [PentOs](https://github.com/Ruby570bocadito/PentOs) | Pentesting OS |
-| [Skull](https://github.com/Ruby570bocadito/Skull) | Minimal Implant |
-| [OSINT-EYE](https://github.com/Ruby570bocadito/OSINT-EYE) | OSINT Tool |
-| [Ollama-Forge](https://github.com/Ruby570bocadito/Ollama-Forge) | AI Interface |
-| [GestureOS](https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML) | Gesture Control |
-| [Training-CTF](https://github.com/Ruby570bocadito/Training-CTF) | CTF Platform |
-| [C2-Server](https://github.com/Ruby570bocadito/C2-Server) | Minimalist C2 |
-| [Bliblioteca-Pentesting](https://github.com/Ruby570bocadito/Bliblioteca-del-Pentesting) | Knowledge Library |
-| [Alpaca-Trading-ML](https://github.com/Ruby570bocadito/Alpaca-Trading-ML) | Trading Bot |
+| Repo | Type | Lang |
+|------|------|------|
+| [rooteame](https://github.com/Ruby570bocadito/rooteame) | Kernel Rootkit | C |
+| [peekaboo](https://github.com/Ruby570bocadito/peekaboo) | PrivEsc Auto-Exploiter | Go |
+| [BTY](https://github.com/Ruby570bocadito/BTY) | C2 Framework | Go |
+| [Wormy](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) | ML Network Worm | Python |
+| [SPECTER](https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal) | AI Pentest Terminal | Python |
+| [OSINT-EYE](https://github.com/Ruby570bocadito/OSINT-EYE) | OSINT Tool | Python |
+| [pentesting-env](https://github.com/Ruby570bocadito/pentesting-env) | Pentesting Setup | Shell |
+| [Training-CTF](https://github.com/Ruby570bocadito/Training-CTF) | CTF Platform | JS |
+| [C2-Server](https://github.com/Ruby570bocadito/C2-Server) | Minimalist C2 | Python |
+| [Bliblioteca-Pentesting](https://github.com/Ruby570bocadito/Bliblioteca-del-Pentesting) | Knowledge Library | Shell |
+| [Vibe-Hacking](https://github.com/Ruby570bocadito/Vibe-Hacking-ML-Automation) | AI Pentesting | Python |
+| [Ollama-Forge](https://github.com/Ruby570bocadito/Ollama-Forge) | AI Interface | Python |
+| [GestureOS](https://github.com/Ruby570bocadito/GestureOS-ComputerControl-ML) | Gesture Control | Python |
 
 </details>
 
@@ -111,9 +123,9 @@ Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 
 | Area | Tools & Skills |
 |------|---------------|
-| 🔴 **Offensive Security** | Metasploit · Burp Suite · Nmap · PrivEsc · OSINT · C2 Development |
-| 🤖 **AI + Security** | LLM Integration · ML · Automatización ofensiva · Adversarial ML |
-| 🔧 **Development** | Go · Python · Bash · PowerShell · Vue 3 · API REST |
+| 🔴 **Offensive Security** | Metasploit · Burp Suite · Nmap · PrivEsc · OSINT · C2 Development · Rootkits |
+| 🤖 **AI + Security** | LLM Integration · ML · Adversarial ML · Automated Exploitation |
+| 🔧 **Development** | Go · Python · C · Bash · PowerShell · Vue 3 · API REST · Docker |
 | 🌐 **Networking** | CCNA · TCP/IP · WiFi Hacking · Traffic Analysis · Cisco IOS |
 
 ---
@@ -132,6 +144,7 @@ Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 ---
 
 ## 📊 Stats
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=a0b4c8)
@@ -153,4 +166,3 @@ Active maintainer of [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 [GitHub](https://github.com/Ruby570bocadito) · [CiberApuntes](https://apuntes-8.gitbook.io/ciber-apuntes/)
 
 </div>
-
