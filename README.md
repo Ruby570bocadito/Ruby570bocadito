@@ -10,6 +10,7 @@
 
 [![CiberApuntes](https://img.shields.io/badge/CiberApuntes-Documentation-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://apuntes-8.gitbook.io/ciber-apuntes/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ruby570bocadito-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruby570bocadito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20G%C3%A1lvez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-g%C3%A1lvez-07445a409/)
 [![Location](https://img.shields.io/badge/M%C3%A1laga-Spain-0A66C2?style=for-the-badge&logo=map&logoColor=white)]()
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Cybersecurity%20Opportunities-228B22?style=for-the-badge&logo=briefcase&logoColor=white)]()
 
@@ -88,7 +89,7 @@ status: Open to cybersecurity opportunities
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=go,python,c,bash,powershell,docker,linux,kali,git,github,vue,react,nodejs,restapi,ollama,tensorflow,pytorch,nmap,metasploit,burpsuite,wifite,cisco&theme=dark" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=go,python,c,bash,powershell,docker,linux,git,github,vue,nodejs,nmap,metasploit,burpsuite,wifite&theme=dark" alt="tech stack"/>
 </p>
 
 ---
@@ -113,6 +114,9 @@ status: Open to cybersecurity opportunities
 <p align="center">
   <a href="https://github.com/Ruby570bocadito">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-g%C3%A1lvez-07445a409/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://apuntes-8.gitbook.io/ciber-apuntes/">
     <img src="https://img.shields.io/badge/CiberApuntes-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="CiberApuntes"/>
