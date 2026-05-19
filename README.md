@@ -89,20 +89,23 @@ status: Open to cybersecurity opportunities
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,c,bash,powershell,docker,linux,git,github,vue,nodejs,nmap,metasploit,burpsuite,wifite&theme=dark" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=go,python,c,bash,powershell,docker,linux,git,github,vue,nodejs,redis,mysql,nginx&theme=dark" alt="languages"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nmap,metasploit,wireshark&theme=dark" alt="pentesting tools"/>
+</p>
+
+<p align="center">
+  <sub>Hydra · John · Hashcat · SQLMap · Ghidra · GDB · Strace · Tcpdump · Aircrack-ng · Impacket · BloodHound · Cobalt Strike · Sliver · Mimikatz · CrackMapExec · Responder · Netcat · Socat · Radare2 · Frida · Burp Suite · Nmap · Wireshark · Metasploit</sub>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=a0b4c8" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=a0b4c8" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ruby570bocadito&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=CC0000&currStreakLabel=0A66C2&sideLabels=a0b4c8&dates=a0b4c8&sideNums=ffffff&currStreakNum=ffffff" alt="streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruby570bocadito&theme=react-dark&color=0A66C2&bg_color=0d1117&title_color=0A66C2&line=0A66C2&point=0A66C2&area=true&hide_border=true&hide_title=true" alt="activity graph"/>
 </p>
 
 ---
