@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=120&section=header&text=Ruby570bocadito&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:001529&height=280&section=header&text=Ruby570bocadito&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Offensive+Security+Developer+%7C+Red+Team+Tooling+%7C+AI+Integration&descSize=18&descAlignY=60" alt="header" />
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=0A66C2&center=true&vCenter=true&width=600&lines=Offensive+Security+Developer;Red+Team+Tooling+%26+AI+Integration;Building+the+Full+Attack+Chain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+the+Full+Attack+Chain;Kernel+Rootkits+%E2%80%A2+C2+Frameworks+%E2%80%A2+PrivEsc+Engines;Offensive+Security+%7C+AI+%7C+Red+Team)](https://git.io/typing-svg)
 
 <br/>
 
@@ -184,8 +184,10 @@ status: Open to cybersecurity opportunities
 ---
 
 <p align="center">
-  <em>Open to internships & opportunities in cybersecurity · Málaga, Spain</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001529,100:0A66C2&height=120&section=footer&text=%E2%80%94%20Open%20to%20internships%20%26%20opportunities%20in%20cybersecurity%20%E2%80%94&fontSize=16&fontColor=ffffff&animation=fadeIn" alt="footer"/>
 </p>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/Ruby570bocadito">
@@ -200,5 +202,5 @@ status: Open to cybersecurity opportunities
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=40&section=footer&text=&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:001529&height=100&section=footer&text=Ruby570bocadito%20%E2%80%A2%20M%C3%A1laga%2C%20Spain&fontSize=14&fontColor=ffffff&animation=fadeIn" alt="footer-end"/>
 </p>
