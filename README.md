@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:001529&height=280&section=header&text=Ruby570bocadito&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Offensive+Security+Developer+%7C+Red+Team+Tooling+%7C+AI+Integration&descSize=18&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:001529&height=200&section=header&text=RUBY570&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Offensive+Security+Developer+%7C+Red+Team+Tooling+%7C+AI+Integration&descSize=16&descAlignY=60" alt="header" />
 </p>
 
 <div align="center">
@@ -174,20 +174,9 @@ status: Open to cybersecurity opportunities
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruby570bocadito&theme=react-dark&color=0A66C2&bg_color=0d1117&title_color=0A66C2&line=0A66C2&point=0A66C2&area=true&hide_border=true&hide_title=true" alt="activity graph"/>
 </p>
 
-### 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" alt="github stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&hide_border=true&title_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" alt="top langs" height="170"/>
-</p>
+<br/>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001529,100:0A66C2&height=120&section=footer&text=%E2%80%94%20Open%20to%20internships%20%26%20opportunities%20in%20cybersecurity%20%E2%80%94&fontSize=16&fontColor=ffffff&animation=fadeIn" alt="footer"/>
-</p>
-
-<br/>
 
 <p align="center">
   <a href="https://github.com/Ruby570bocadito">
@@ -202,5 +191,5 @@ status: Open to cybersecurity opportunities
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:001529&height=100&section=footer&text=Ruby570bocadito%20%E2%80%A2%20M%C3%A1laga%2C%20Spain&fontSize=14&fontColor=ffffff&animation=fadeIn" alt="footer-end"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001529,100:0A66C2&height=120&section=footer&text=%E2%80%94%20Open%20to%20opportunities%20%E2%80%94%20Ruby570bocadito%20%E2%80%A2%20M%C3%A1laga%2C%20Spain&fontSize=16&fontColor=ffffff&animation=fadeIn" alt="footer"/>
 </p>
