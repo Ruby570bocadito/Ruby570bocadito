@@ -56,9 +56,9 @@ status: Open to cybersecurity opportunities
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
-| [**rooteame**](https://github.com/Ruby570bocadito/rooteame) | Linux LKM kernel rootkit — syscall hooking, process/file/port hiding, kernel keylogger, self-hiding capabilities | `C` `Go` | 🟢 Active |
-| [**peekaboo**](https://github.com/Ruby570bocadito/peekaboo) | Linux privilege escalation auto-exploiter — 10+ scanners, 60+ GTFOBins offline DB, auto-root via SUID/sudo/cron/Docker | `Go` | 🟢 Active |
-| [**BTY**](https://github.com/Ruby570bocadito/BTY) | Post-exploitation C2 framework — X25519 + XChaCha20-Poly1305, AV evasion, SOCKS5 proxy, 7 modules | `Go` `Vue 3` | 🟢 Active |
+| [**Vault-Kernel**](https://github.com/Ruby570bocadito/Vault-Kernel) | Linux LKM kernel rootkit — syscall hooking, process/file/port hiding, kernel keylogger, self-hiding capabilities | `C` `Go` | 🟢 Active |
+| [**Rise-Privilege**](https://github.com/Ruby570bocadito/Rise-Privilege) | Linux privilege escalation auto-exploiter — 10+ scanners, 60+ GTFOBins offline DB, auto-root via SUID/sudo/cron/Docker | `Go` | 🟢 Active |
+| [**Pulse-C2**](https://github.com/Ruby570bocadito/Pulse-C2) | Post-exploitation C2 framework — X25519 + XChaCha20-Poly1305, AV evasion, SOCKS5 proxy, 7 modules | `Go` `Vue 3` | 🟢 Active |
 | [**Wormy-ML-Network-Worm**](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm) | ML-powered polymorphic network worm — dynamic encryption, multi-vector propagation, adversarial ML evasion | `Python` | 🟢 Active |
 | [**Specter-Terminal**](https://github.com/Ruby570bocadito/Specter-Terminal) | Offline AI-powered offensive security terminal — Ollama integration, sandboxed execution | `Python` | 🔄 Renamed |
 | [**Horizon-Intel**](https://github.com/Ruby570bocadito/Horizon-Intel) | Attack surface recon platform — DNS, certs, GitHub/Google dorking, NVD, web dashboard, MITRE mapping | `Python` | 🟢 Active |
@@ -77,7 +77,7 @@ status: Open to cybersecurity opportunities
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [rooteame](https://github.com/Ruby570bocadito/rooteame) | Linux LKM kernel rootkit — syscall hooking, process hiding, keylogger | C, Go |
+| [Vault-Kernel](https://github.com/Ruby570bocadito/Vault-Kernel) | Linux LKM kernel rootkit — syscall hooking, process hiding, keylogger | C, Go |
 
 </details>
 
@@ -86,7 +86,7 @@ status: Open to cybersecurity opportunities
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [BTY](https://github.com/Ruby570bocadito/BTY) | Post-exploitation C2 framework with encryption, SOCKS5, AV evasion | Go, Vue 3 |
+| [Pulse-C2](https://github.com/Ruby570bocadito/Pulse-C2) | Post-exploitation C2 framework with encryption, SOCKS5, AV evasion | Go, Vue 3 |
 | [Link-Relay](https://github.com/Ruby570bocadito/Link-Relay) | Post-exploitation C2 relay with multi-protocol implant support | Python |
 
 </details>
@@ -116,7 +116,7 @@ status: Open to cybersecurity opportunities
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [peekaboo](https://github.com/Ruby570bocadito/peekaboo) | Linux auto-privesc with 60+ GTFOBins offline DB | Go |
+| [Rise-Privilege](https://github.com/Ruby570bocadito/Rise-Privilege) | Linux auto-privesc with 60+ GTFOBins offline DB | Go |
 
 </details>
 
