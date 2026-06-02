@@ -10,7 +10,7 @@
 
 [![CiberApuntes](https://img.shields.io/badge/CiberApuntes-Documentation-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://apuntes-8.gitbook.io/ciber-apuntes/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ruby570bocadito-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruby570bocadito)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20G%C3%A1lvez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-g%C3%A1lvez-07445a409/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20G%C3%A1lvez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-g%C3%A1lvez-silipo-07445a409/)
 [![Location](https://img.shields.io/badge/M%C3%A1laga-Spain-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Cybersecurity%20Opportunities-228B22?style=for-the-badge&logo=briefcase&logoColor=white)]()
 
@@ -182,7 +182,7 @@ status: Open to cybersecurity opportunities
   <a href="https://github.com/Ruby570bocadito">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/rafael-g%C3%A1lvez-07445a409/">
+  <a href="https://www.linkedin.com/in/rafael-g%C3%A1lvez-silipo-07445a409/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://apuntes-8.gitbook.io/ciber-apuntes/">
