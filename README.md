@@ -35,7 +35,8 @@
 - 🧠 **AI + Security:** local LLMs (Ollama), ML-driven automation, autonomous offensive agents
 - 🛠️ **I ship tools:** Go · Python · C · C# · Rust
 - 🏆 **Competitions:** ASTI Robotics Challenge finalist · Hilda Ericsson / Cátedra Lamarr (UMA & Ericsson)
-- 📍 Málaga, Spain · 🌐 Portfolio coming soon
+- 📍 Málaga, Spain
+- · 🌐 Portfolio: https://ruby570bocadito.github.io/portfolio/#contact
 
 ---
 
