@@ -79,8 +79,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0a0a0c&icon_color=ff2e4d&title_color=ff6b7d"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0c&title_color=ff6b7d"/>
+  <img src="https://komarev.com/ghpvc/?username=Ruby570bocadito&style=for-the-badge&color=ff2e4d&labelColor=0a0a0c&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/Ruby570bocadito?tab=followers"><img src="https://img.shields.io/github/followers/Ruby570bocadito?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=ff6b7d&labelColor=0a0a0c"/></a>
+  <a href="https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm/stargazers"><img src="https://img.shields.io/github/stars/Ruby570bocadito/Wormy-ML-Network-Worm?style=for-the-badge&logo=github&label=%E2%98%85%20WORMY-ML&color=ff2e4d&labelColor=0a0a0c"/></a>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ruby570bocadito&theme=radical&hide_border=true&background=0a0a0c&ring=ff2e4d&fire=ff6b7d&currStreakLabel=ff6b7d"/>
