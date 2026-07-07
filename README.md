@@ -83,7 +83,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0c&title_color=ff6b7d"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruby570bocadito&theme=radical&hide_border=true&background=0a0a0c&ring=ff2e4d&fire=ff6b7d&currStreakLabel=ff6b7d"/>
+  <img src="https://streak-stats.demolab.com/?user=Ruby570bocadito&theme=radical&hide_border=true&background=0a0a0c&ring=ff2e4d&fire=ff6b7d&currStreakLabel=ff6b7d"/>
 </p>
 
 ---
