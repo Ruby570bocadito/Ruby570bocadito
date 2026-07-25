@@ -61,11 +61,10 @@
 | Project | Stack | What it is |
 | --- | --- | --- |
 | **[X404X](https://github.com/Ruby570bocadito/X404X)** | Go · Vue 3 | Autonomous red team platform — full kill chain, AI decisions, kernel persistence |
-| **[Pulse-C2](https://github.com/Ruby570bocadito/Pulse-C2)** | Go · Vue 3 | Multi-agent C2 with encrypted comms, AV evasion, SOCKS5 tunneling |
+| **[WorldC2](https://github.com/Ruby570bocadito/WorldC2)** | Go · Vue 3 | Multi-agent C2 with encrypted comms, AV evasion, SOCKS5 tunneling |
 | **[Vault-Kernel](https://github.com/Ruby570bocadito/Vault-Kernel)** | C | Linux LKM rootkit — syscall hooking, process/file/port hiding |
 | **[Wormy-ML](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm)** ⭐ | Python | ML-powered polymorphic worm (educational research) |
-| **[Rise-Privilege](https://github.com/Ruby570bocadito/Rise-Privilege)** | Go | Automated Linux privesc — 60+ GTFOBins, auto-root |
-| **[Titan-Operations](https://github.com/Ruby570bocadito/Titan-Operations)** | Python · Go | APT emulation with hybrid decision engine (A* + CBR) |
+| **[Auto-Privilege](https://github.com/Ruby570bocadito/Auto-Privilege)** | Go | Automated Linux privesc — 60+ GTFOBins, auto-root |
 
 > ⚠️ All tools are published for **educational and authorized security research** purposes only.
 
