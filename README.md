@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=7978FF&center=true&vCenter=true&width=720&lines=Hi,+I'm+Rafael+—+aka+Ruby+👋;Cybersecurity+Student;Offensive+Security+·+Red+Team;Security+Tooling+Builder;I+learn+by+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=7978FF&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Rafael+%E2%80%94+aka+Ruby+%F0%9F%91%8B%3BCybersecurity+Student%3BOffensive+Security+%C2%B7+Red+Team%3BSecurity+Tooling+Builder%3BI+learn+by+building." alt="Typing SVG" />
 
 <a href="https://ruby570bocadito.github.io">
   <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-ruby570bocadito.github.io-4649FF?style=for-the-badge&labelColor=0d0d1a" alt="Portfolio" />
@@ -53,17 +53,19 @@ I'm currently studying **Systems and Microcomputer Networks (SMR)** and working 
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=7978FF&icon_color=4649FF&text_color=c9c9e8&ring_color=7978FF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=7978FF&text_color=c9c9e8&langs_color=7978FF" alt="Top languages" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Ruby570bocadito&hide_border=true&bg_color=0d0d1a&ring=7978FF&fire=C47AFF&currStreakLabel=7978FF&sideLabels=c9c9e8&currStreakNum=c9c9e8&sideNums=c9c9e8&dates=c9c9e8" alt="GitHub streak" />
+  <a href="https://github.com/ryo-ma/github-profile-summary-cards" title="github-profile-summary-cards">
+    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruby570bocadito&theme=tokyonight" alt="Profile details" />
+  </a>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ruby570bocadito&bg_color=0d0d1a&color=e6e4ff&line=7978FF&point=C47AFF&area=true&area_color=1D1CE5&hide_border=true" alt="Activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ruby570bocadito&theme=darkhub&no-frame=true&no-bg=true&column=7&rank=SECRET,UNKNOWN,C,B,A" alt="Trophy" />
+  <a href="https://github.com/ryo-ma/github-profile-summary-cards" title="github-profile-summary-cards">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ruby570bocadito&theme=tokyonight" alt="GitHub stats" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ruby570bocadito&theme=tokyonight" alt="Top languages" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="github-readme-streak-stats">
+    <img height="200" src="https://streak-stats.demolab.com?user=Ruby570bocadito&hide_border=true&bg_color=1a1b27&ring=7978FF&fire=C47AFF&currStreakLabel=bf91f3&currStreakNum=c0caf5&sideLabels=bf91f3&sideNums=c0caf5&dates=565f89&date_format=%5B%20Y.%20n.%20j%20%5D" alt="GitHub streak" />
+  </a>
 </div>
 
 ---
@@ -120,10 +122,14 @@ I'm currently studying **Systems and Microcomputer Networks (SMR)** and working 
 
 ---
 
+### 🐍 Activity
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruby570bocadito/Ruby570bocadito/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruby570bocadito/Ruby570bocadito/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Ruby570bocadito/Ruby570bocadito/output/github-contribution-grid-snake.svg" />
   </picture>
+
+  <sub>Contribution snake — auto-generated every day from my GitHub activity.</sub>
 </div>
