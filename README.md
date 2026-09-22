@@ -16,7 +16,7 @@
 
 ---
 
-### 🧔 About me
+### 👦 About me
 
 I'm a cybersecurity student focused on **offensive security, Red Team operations and security research**.
 
@@ -79,7 +79,7 @@ I'm currently studying **Systems and Microcomputer Networks (SMR)** and working 
 - 🤖 **Local LLMs & AI for Cybersecurity**
 - 🧪 **Security Research & Tooling**
 - 🧱 **Hack The Box & personal labs**
-- 📚 **Preparing for further offensive security certifications** (CRTP · CPTS)
+- 📚 **Preparing for further offensive security certifications** (CRTO· CPTES)
 
 ---
 
