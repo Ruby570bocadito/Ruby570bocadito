@@ -1,76 +1,129 @@
-<h1 align="center">Rafael Gálvez</h1>
+<div align="center">
 
-<p align="center">
-  <b>Junior Red Team Engineer &amp; Offensive Security Tool Developer</b><br/>
-  <sub>eJPTv2 · C2 frameworks · OSINT &amp; Bluetooth auditing tooling · Málaga, España</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=7978FF&center=true&vCenter=true&width=720&lines=Hi,+I'm+Rafael+—+aka+Ruby+👋;Cybersecurity+Student;Offensive+Security+·+Red+Team;Security+Tooling+Builder;I+learn+by+building." alt="Typing SVG" />
+
+<a href="https://ruby570bocadito.github.io">
+  <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-ruby570bocadito.github.io-4649FF?style=for-the-badge&labelColor=0d0d1a" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/rafael-g%C3%A1lvez-silipo-07445a409/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rafael_Gálvez_Silipo-7978FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a" alt="LinkedIn" />
+</a>
+<a href="mailto:rafagasi09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rafagasi09@gmail.com-C47AFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a" alt="Email" />
+</a>
+
+</div>
+
+---
+
+### 🧔 About me
+
+I'm a cybersecurity student focused on **offensive security, Red Team operations and security research**.
+
+I started programming at around 10 years old with **C# and Unity**, and eventually moved from game development into cybersecurity after becoming more interested in understanding how systems work underneath.
+
+**I learn by building.**
+
+Instead of only using existing tools, I like creating my own projects to understand the technologies, architectures and security problems behind them. My work has included **Red Team orchestration, C2 infrastructure, OSINT, Active Directory, malware research, distributed systems and AI-assisted cybersecurity**.
+
+> ⚡ **I don't just want to know how to use a tool. I want to understand how it works, why it works, and how I could build something myself.**
+
+I'm currently studying **Systems and Microcomputer Networks (SMR)** and working towards starting my professional career in cybersecurity, with a long-term goal of growing within **Red Team and offensive security**.
+
+---
+
+### 🛰️ Projects I'm proud of
+
+<table>
+<tr><td align="center"><b>🤖 OrquestaRT</b></td><td>AI-assisted <b>Red Team orchestration platform</b> — operator console, LangGraph multi-agent graph, ROE guardrails, audit chain of custody. <i>587 tests.</i></td><td><a href="https://ruby570bocadito.github.io/#/project/orquestart">🌐</a> <a href="https://github.com/Ruby570bocadito/orquesta-rt">💻</a></td></tr>
+<tr><td align="center"><b>🌐 WorldC2</b></td><td><b>Command & Control platform</b> in Go — 5 transports with fallback, per-session ephemeral crypto, Vue operator console.</td><td><a href="https://ruby570bocadito.github.io/#/project/worldc2">🌐</a> <a href="https://github.com/Ruby570bocadito/WorldC2">💻</a></td></tr>
+<tr><td align="center"><b>🐝 HiveMind</b></td><td><b>Multi-agent autonomous swarm</b> in Rust — distributed consensus, 6 specialist agents, TUI.</td><td><a href="https://ruby570bocadito.github.io/#/project/hivemind">🌐</a> <a href="https://github.com/Ruby570bocadito/HiveMind">💻</a></td></tr>
+<tr><td align="center"><b>🪱 Wormy</b></td><td><b>ML-driven self-propagating worm</b> research — Double DQN + PER decides "which host next?", in isolated labs.</td><td><a href="https://ruby570bocadito.github.io/#/project/wormy">🌐</a> <a href="https://github.com/Ruby570bocadito/Wormy-Network-ML">💻</a></td></tr>
+<tr><td align="center"><b>🔥 REDHAVOC</b></td><td><b>Red team framework</b> Metasploit-style in pure Python — 79 modules, post-exploitation, AV evasion.</td><td><a href="https://github.com/Ruby570bocadito/REDHAVOC">💻</a></td></tr>
+<tr><td align="center"><b>🤠 T-100AI</b></td><td><b>AI-powered offensive security terminal</b> — 100% offline, local LLMs for operator assistance.</td><td><a href="https://github.com/Ruby570bocadito/T-100AI">💻</a></td></tr>
+<tr><td align="center"><b>👁️ OSINT-EYE</b></td><td><b>AI-powered attack surface intelligence</b> — OSINT & recon framework.</td><td><a href="https://github.com/Ruby570bocadito/OSINT-EYE">💻</a></td></tr>
+<tr><td align="center"><b>🧠 charon</b></td><td><b>Kerberos protocol workbench</b> in Rust — own DER codec, crypto, ticket forging research.</td><td><a href="https://github.com/Ruby570bocadito/charon">💻</a></td></tr>
+<tr><td align="center"><b>🚀 Auto-Privilege</b></td><td><b>Automated Linux privilege escalation</b> — scan, enumerate, suggest.</td><td><a href="https://github.com/Ruby570bocadito/Auto-Privilege">💻</a></td></tr>
+<tr><td align="center"><b>🥷 Vault-Kernel</b></td><td><b>LKM rootkit engine</b> for red team labs — v3.2.</td><td><a href="https://github.com/Ruby570bocadito/Vault-Kernel">💻</a></td></tr>
+<tr><td align="center"><b>🔵 bluesky</b></td><td><b>Bluetooth security auditing framework</b> Metasploit-style — 22 modules.</td><td><a href="https://github.com/Ruby570bocadito/bluesky">💻</a></td></tr>
+</table>
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ruby570bocadito&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=7978FF&icon_color=4649FF&text_color=c9c9e8&ring_color=7978FF" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby570bocadito&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=7978FF&text_color=c9c9e8&langs_color=7978FF" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Ruby570bocadito&hide_border=true&bg_color=0d0d1a&ring=7978FF&fire=C47AFF&currStreakLabel=7978FF&sideLabels=c9c9e8&currStreakNum=c9c9e8&sideNums=c9c9e8&dates=c9c9e8" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ruby570bocadito&bg_color=0d0d1a&color=e6e4ff&line=7978FF&point=C47AFF&area=true&area_color=1D1CE5&hide_border=true" alt="Activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ruby570bocadito&theme=darkhub&no-frame=true&no-bg=true&column=7&rank=SECRET,UNKNOWN,C,B,A" alt="Trophy" />
+</div>
+
+---
+
+### 🎯 Current focus
+
+- 🔴 **Red Team & Pentesting**
+- 🏢 **Active Directory & Windows**
+- 🐧 **Linux & Networking**
+- 🔎 **OSINT & Reconnaissance**
+- 🤖 **Local LLMs & AI for Cybersecurity**
+- 🧪 **Security Research & Tooling**
+- 🧱 **Hack The Box & personal labs**
+- 📚 **Preparing for further offensive security certifications** (CRTP · CPTS)
+
+---
+
+### 🛠️ Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=F74C00" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Active%20Directory-0067B8?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ruby570bocadito/WorldC2"><img alt="WorldC2" src="https://img.shields.io/badge/WorldC2-C2_framework-4493f8?style=flat-square&labelColor=0d1117"></a>
-  <a href="https://github.com/Ruby570bocadito/OSINT-EYE"><img alt="OSINT-EYE" src="https://img.shields.io/badge/OSINT--EYE-recon_suite-4493f8?style=flat-square&labelColor=0d1117"></a>
-  <a href="https://github.com/Ruby570bocadito/bluesky"><img alt="bluesky" src="https://img.shields.io/badge/bluesky-BT_auditing-4493f8?style=flat-square&labelColor=0d1117"></a>
-  <a href="mailto:rafagasi09@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-email-6e7681?style=flat-square&labelColor=0d1117"></a>
-</p>
+---
+
+### 📫 Contact
+
+<div align="center">
+
+📧 [rafagasi09@gmail.com](mailto:rafagasi09@gmail.com) &nbsp;·&nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/rafael-g%C3%A1lvez-silipo-07445a409/) &nbsp;·&nbsp;
+🌐 [Portfolio](https://ruby570bocadito.github.io)
+
+*Built with curiosity, code and too much coffee.* ☕
+
+</div>
 
 ---
 
-### `whoami`
-
-```text
-> Construyo la cadena de ataque completa: desde recon OSINT hasta C2 con
-  transports cifrados y persistencia a nivel de kernel. Si no existe la
-  herramienta, la escribo.
-> Actualmente: Sistemas IT (SMR) · eJPTv2 · 17+ herramientas open source.
-```
-
-- 🔴 **Red Team** — infraestructura C2, evasion de AV/EDR, post-explotación, tunneling
-- 🧠 **AI + Security** — LLMs locales (Ollama), automatización con ML, agentes ofensivos
-- 🛠️ **Stack** — Go · Python · C · C# · Rust · Bash
-- 📍 Málaga, España · 🌐 [Portfolio](https://ruby570bocadito.github.io/portfolio/#contact)
-
----
-
-### Proyectos destacados
-
-| Proyecto | Stack | Qué es |
-| --- | --- | --- |
-| **[WorldC2](https://github.com/Ruby570bocadito/WorldC2)** | Go · Vue 3 | Framework C2 multi-agente: WebSocket/HTTP(S)/WebRTC/DNS, mTLS + cert pinning, SOCKS5, file exfil con resume, RBAC, SIEM |
-| **[OSINT-EYE](https://github.com/Ruby570bocadito/OSINT-EYE)** | Python | Suite de recon OSINT: 14 módulos (DNS, web, certs, CVEs), correlación de hallazgos, grafo interactivo, dashboard offline |
-| **[bluesky](https://github.com/Ruby570bocadito/bluesky)** | Python | Framework de auditoría Bluetooth estilo Metasploit: 22 módulos, consola REPL, dashboard web oscuro, modo educativo |
-| **[X404X](https://github.com/Ruby570bocadito/X404X)** | Go · Vue 3 | Plataforma red team autónoma — kill chain completa con decisiones AI |
-| **[Vault-Kernel](https://github.com/Ruby570bocadito/Vault-Kernel)** | C | Rootkit LKM Linux — hooking de syscalls, ocultación de procesos/archivos/puertos |
-| **[Wormy-ML](https://github.com/Ruby570bocadito/Wormy-ML-Network-Worm)** | Python | Gusano polimórfico con ML (investigación educativa) |
-| **[Auto-Privilege](https://github.com/Ruby570bocadito/Auto-Privilege)** | Go | Privesc Linux automatizado — 60+ GTFOBins |
-
-> ⚠️ Todas las herramientas se publican **solo con fines educativos y de investigación en seguridad autorizada**.
-
----
-
-### Stack & herramientas
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
----
-
-### Certificaciones
-
-`eJPTv2 (INE)` · `Cisco: Ethical Hacker` · `Python Essentials 1` · `Networking Basics` · `Intro to Cybersecurity` · `Linux Unhatched` · `Hack4u / S4vitar` · `Palo Alto ILT-CoC`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ruby570bocadito&theme=github-dark&hide_border=true&background=0d1117&ring=4493f8&fire=d29922&currStreakLabel=e6edf3" alt="streak"/>
-</p>
-
----
-
-<p align="center"><sub>"El mejor red teamer es el que entiende el código a fondo — por eso escribo mis propias herramientas."</sub></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruby570bocadito/Ruby570bocadito/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruby570bocadito/Ruby570bocadito/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Ruby570bocadito/Ruby570bocadito/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
