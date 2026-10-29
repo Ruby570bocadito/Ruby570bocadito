@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=7978FF&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Rafael+%E2%80%94+aka+Ruby+%F0%9F%91%8B%3BCybersecurity+Student%3BOffensive+Security+%C2%B7+Red+Team%3BSecurity+Tooling+Builder%3BI+learn+by+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=7978FF&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Rafael+%E2%80%94+aka+Ruby+%F0%9F%91%8B%3BCybersecurity+Student%3BSOC+%C2%B7+Blue+Team%3BDetection+Engineering%3BBuilding+FriendlyPear+%40+Meta+AI+Hackathon%3BI+learn+by+building." alt="Typing SVG" />
 
 <a href="https://ruby570bocadito.github.io">
   <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-ruby570bocadito.github.io-4649FF?style=for-the-badge&labelColor=0d0d1a" alt="Portfolio" />
@@ -18,35 +18,53 @@
 
 ### 👦 About me
 
-I'm a cybersecurity student focused on **offensive security, Red Team operations and security research**.
+I'm a cybersecurity student focused on **SOC operations, Blue Team and detection engineering**.
 
 I started programming at around 10 years old with **C# and Unity**, and eventually moved from game development into cybersecurity after becoming more interested in understanding how systems work underneath.
 
 **I learn by building.**
 
-Instead of only using existing tools, I like creating my own projects to understand the technologies, architectures and security problems behind them. My work has included **Red Team orchestration, C2 infrastructure, OSINT, Active Directory, malware research, distributed systems and AI-assisted cybersecurity**.
+I spent my first years in security on the offensive side — C2 infrastructure, Red Team orchestration, Active Directory attacks, malware research. Knowing how attacks work is exactly what pulled me to the other side: today I build the tools that **detect, investigate and respond** to them — endpoint telemetry, detection rules mapped to **MITRE ATT&CK**, network analysis, digital forensics and hardening.
 
-> ⚡ **I don't just want to know how to use a tool. I want to understand how it works, why it works, and how I could build something myself.**
+> 🛡️ **I don't just want to know how to use a tool. I want to understand how it works, why it works, and how I could build something myself.**
 
-I'm currently studying **Systems and Microcomputer Networks (SMR)** and working towards starting my professional career in cybersecurity, with a long-term goal of growing within **Red Team and offensive security**.
+I'm currently studying **Systems and Microcomputer Networks (SMR)** and working towards starting my professional career in cybersecurity, with a long-term goal of growing as a **SOC analyst and Blue Team / detection engineer**.
 
 ---
 
-### 🛰️ Projects I'm proud of
+### 🏆 Right now
 
 <table>
-<tr><td align="center"><b>🤖 OrquestaRT</b></td><td>AI-assisted <b>Red Team orchestration platform</b> — operator console, LangGraph multi-agent graph, ROE guardrails, audit chain of custody. <i>587 tests.</i></td><td><a href="https://ruby570bocadito.github.io/#/project/orquestart">🌐</a> <a href="https://github.com/Ruby570bocadito/orquesta-rt">💻</a></td></tr>
+<tr><td align="center" width="140"><b>🍐 FriendlyPear</b><br/><sub>Meta Global AI<br/>Developer Hackathon</sub></td><td>I'm competing in the <b>Meta Global AI Developer Hackathon</b> (Indie track · <i>Build for Your World</i>) with <b>FriendlyPear</b>: an <b>AI voice agent that protects older adults from scams</b> and keeps their family in the loop. Peri, a friendly clay pear living in your phone, checks SMS, WhatsApp and email on-device, flags stranger calls, and asks a guardian before money moves. Six Meta models with one job each · Kotlin / Android · <b>91 % of 200 unseen scams flagged with 4 % false alarms</b>.</td><td><a href="https://github.com/Ruby570bocadito/FriendlyPear">💻</a></td></tr>
+</table>
+
+---
+
+### 🛡️ Blue Team projects
+
+<table>
+<tr><td align="center"><b>🐻 bluetardigrade</b></td><td><b>Self-hosted SOC for Windows endpoints</b> — Rust ETW sensor, single-binary Go detection engine, live Next.js console. <b>125 rules mapped to MITRE ATT&CK</b>, kill-chain correlation, host risk scoring, forensic bundle per alert, incidents, response and on-call from your phone.</td><td><a href="https://github.com/Ruby570bocadito/bluetardigrade">💻</a></td></tr>
+<tr><td align="center"><b>🦈 SOC SHARK</b></td><td><b>Your network, explained in plain language</b> — a friendly Wireshark alternative for SOC analysts, in Rust. Conversations instead of packets, alerts grouped into stories with <i>what to do</i> and the ATT&CK technique, live capture on Windows / Linux / macOS.</td><td><a href="https://github.com/Ruby570bocadito/soc-shark">💻</a></td></tr>
+<tr><td align="center"><b>🔬 Forense-Framework</b></td><td><b>Windows-centric digital forensics framework</b> — case management, verifiable chain of custody, disk images & VSS, RAM, 20+ artifact modules, Sigma & YARA, super-timeline, ATT&CK incident narrative, STIX 2.1 and expert reports (ES/EN).</td><td><a href="https://github.com/Ruby570bocadito/Forense-Framework">💻</a></td></tr>
+<tr><td align="center"><b>🏰 Bastion</b></td><td><b>Audit & hardening for Windows, Windows Server and Linux</b> in Go — 155 controls, posture score mapped to ATT&CK, safe hardening with snapshot & automatic rollback, attack-surface view, CI/CD-ready.</td><td><a href="https://github.com/Ruby570bocadito/best-harden">💻</a></td></tr>
+<tr><td align="center"><b>⚔️ area·ai</b></td><td><b>Red vs Blue AI agent laboratory</b> — AI agents attack and defend a real localhost lab, BLUE detects, patches and hunts, and both sides learn campaign after campaign. <i>514 tests.</i></td><td><a href="https://github.com/Ruby570bocadito/area-ai">💻</a></td></tr>
+</table>
+
+<details>
+<summary><b>🔴 Earlier offensive security work</b> — where I learned how attacks really work</summary>
+<br/>
+
+<table>
+<tr><td align="center"><b>🤖 OrquestaRT</b></td><td>AI-assisted <b>Red Team orchestration platform</b> — LangGraph multi-agent graph, ROE guardrails, audit chain of custody. <i>587 tests.</i></td><td><a href="https://ruby570bocadito.github.io/#/project/orquestart">🌐</a> <a href="https://github.com/Ruby570bocadito/orquesta-rt">💻</a></td></tr>
 <tr><td align="center"><b>🌐 WorldC2</b></td><td><b>Command & Control platform</b> in Go — 5 transports with fallback, per-session ephemeral crypto, Vue operator console.</td><td><a href="https://ruby570bocadito.github.io/#/project/worldc2">🌐</a> <a href="https://github.com/Ruby570bocadito/WorldC2">💻</a></td></tr>
 <tr><td align="center"><b>🐝 HiveMind</b></td><td><b>Multi-agent autonomous swarm</b> in Rust — distributed consensus, 6 specialist agents, TUI.</td><td><a href="https://ruby570bocadito.github.io/#/project/hivemind">🌐</a> <a href="https://github.com/Ruby570bocadito/HiveMind">💻</a></td></tr>
 <tr><td align="center"><b>🪱 Wormy</b></td><td><b>ML-driven self-propagating worm</b> research — Double DQN + PER decides "which host next?", in isolated labs.</td><td><a href="https://ruby570bocadito.github.io/#/project/wormy">🌐</a> <a href="https://github.com/Ruby570bocadito/Wormy-Network-ML">💻</a></td></tr>
-<tr><td align="center"><b>🔥 REDHAVOC</b></td><td><b>Red team framework</b> Metasploit-style in pure Python — 79 modules, post-exploitation, AV evasion.</td><td><a href="https://github.com/Ruby570bocadito/REDHAVOC">💻</a></td></tr>
-<tr><td align="center"><b>🤠 T-100AI</b></td><td><b>AI-powered offensive security terminal</b> — 100% offline, local LLMs for operator assistance.</td><td><a href="https://github.com/Ruby570bocadito/T-100AI">💻</a></td></tr>
-<tr><td align="center"><b>👁️ OSINT-EYE</b></td><td><b>AI-powered attack surface intelligence</b> — OSINT & recon framework.</td><td><a href="https://github.com/Ruby570bocadito/OSINT-EYE">💻</a></td></tr>
 <tr><td align="center"><b>🧠 charon</b></td><td><b>Kerberos protocol workbench</b> in Rust — own DER codec, crypto, ticket forging research.</td><td><a href="https://github.com/Ruby570bocadito/charon">💻</a></td></tr>
-<tr><td align="center"><b>🚀 Auto-Privilege</b></td><td><b>Automated Linux privilege escalation</b> — scan, enumerate, suggest.</td><td><a href="https://github.com/Ruby570bocadito/Auto-Privilege">💻</a></td></tr>
-<tr><td align="center"><b>🥷 Vault-Kernel</b></td><td><b>LKM rootkit engine</b> for red team labs — v3.2.</td><td><a href="https://github.com/Ruby570bocadito/Vault-Kernel">💻</a></td></tr>
-<tr><td align="center"><b>🔵 bluesky</b></td><td><b>Bluetooth security auditing framework</b> Metasploit-style — 22 modules.</td><td><a href="https://github.com/Ruby570bocadito/bluesky">💻</a></td></tr>
+<tr><td align="center"><b>👁️ OSINT-EYE</b></td><td><b>AI-powered attack surface intelligence</b> — OSINT & recon framework.</td><td><a href="https://github.com/Ruby570bocadito/OSINT-EYE">💻</a></td></tr>
+<tr><td align="center"><b>🔥 REDHAVOC</b></td><td><b>Red team framework</b> Metasploit-style in pure Python — 79 modules.</td><td><a href="https://github.com/Ruby570bocadito/REDHAVOC">💻</a></td></tr>
 </table>
+
+</details>
 
 ---
 
@@ -72,14 +90,14 @@ I'm currently studying **Systems and Microcomputer Networks (SMR)** and working 
 
 ### 🎯 Current focus
 
-- 🔴 **Red Team & Pentesting**
-- 🏢 **Active Directory & Windows**
-- 🐧 **Linux & Networking**
-- 🔎 **OSINT & Reconnaissance**
-- 🤖 **Local LLMs & AI for Cybersecurity**
-- 🧪 **Security Research & Tooling**
-- 🧱 **Hack The Box & personal labs**
-- 📚 **Preparing for further offensive security certifications** (CRTO· CPTES)
+- 🛡️ **SOC operations & Blue Team**
+- 🎯 **Detection engineering** — Sigma, YARA, MITRE ATT&CK
+- 🖥️ **Windows endpoint telemetry** — ETW, Sysmon, event logs
+- 🔎 **Threat hunting & incident response**
+- 🔬 **Digital forensics (DFIR)**
+- 🌐 **Network traffic analysis**
+- 🧱 **Hardening & security posture**
+- 🤖 **AI for defense** — currently at the **Meta Global AI Developer Hackathon**
 
 ---
 
@@ -100,9 +118,15 @@ I'm currently studying **Systems and Microcomputer Networks (SMR)** and working 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Active%20Directory-0067B8?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sigma-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/YARA-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
 </p>
 
